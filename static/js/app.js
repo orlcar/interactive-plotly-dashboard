@@ -1,9 +1,3 @@
-In this project, plotly.js was used to build an interactive dashboard to explore the belly button biodiversity dataset.
-
-## Javascript Code
-
-```javascript
-
 function buildMetadata(sample) {
 
 	// Use `d3.json` to fetch the metadata for a sample
@@ -213,12 +207,3 @@ function optionChanged(newSample) {
 
 // Initialize the dashboard
 init();
-
-
-```
-
-## Interactive Dashboard Website
-
-![Interactive Dashboard Image 1](images/dashboard_image_1.png)
-
-![Interactive Dashboard Image 2](images/dashboard_image_2.png)

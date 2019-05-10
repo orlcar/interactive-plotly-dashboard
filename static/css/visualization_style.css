@@ -1,0 +1,17 @@
+#pie {
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+	}
+
+#gauge {
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+	}
+	
+#bubble {
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+	}
