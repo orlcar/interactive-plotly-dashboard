@@ -88,7 +88,7 @@ function buildGauge(sample) {
 					"#F1DFCF",
 					"#F8EAE6",
 					"#FFFFFF" // This color must match the background color
-							  // the gauge chart is on
+						  // the gauge chart is on
 					 ]},
 				hoverinfo: "none",
 				hole: 0.5,
